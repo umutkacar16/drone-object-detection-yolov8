@@ -20,3 +20,9 @@ A high-performance, real-time small object detection system designed for drone i
 git clone https://github.com/umutkacar16/drone-object-detection-yolov8.git
 cd drone-object-detection-yolov8
 pip install -r requirements.txt
+
+
+
+## 📊 Training Results 
+![Training Results](assets/results.png)
+
