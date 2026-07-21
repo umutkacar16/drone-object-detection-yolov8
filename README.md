@@ -13,6 +13,11 @@ A high-performance, real-time small object detection system designed for drone i
 * `model.py`: Model training script with YOLOv8s configuration.
 * `data.yaml`: Dataset split paths and class definitions.
 
+## 📊 Training Results 
+![Training Results](assets/results.png)
+
+
+
 ## 🚀 Quick Start
 
 ### 1. Installation
@@ -23,6 +28,5 @@ pip install -r requirements.txt
 
 
 
-## 📊 Training Results 
-![Training Results](assets/results.png)
+
 
