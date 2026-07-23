@@ -1,10 +1,17 @@
+# Python & Sanal Ortamlar
 __pycache__/
-*.pyc
-.pytest_cache/
+*.py[cod]
 venv/
 env/
+
+# Veri Setleri ve Arşivler (GitHub'a YÜKLENMEMELİ)
 merged_dataset/
-extracted_temp/
-visdrone.zip
 animals.zip
+visdrone.zip
+
+# Model Ağırlıkları ve Eğitim Çıktıları
 runs/
+*.pt
+
+# VSCode Ayarları
+.vscode/

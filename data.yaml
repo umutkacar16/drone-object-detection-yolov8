@@ -1,9 +1,11 @@
-path: ./merged_dataset 
+path: merged_dataset
 train: train/images
 val: val/images
+
+nc: 3
 
 names:
   0: insan
   1: kus
-  2: evcil_hayvan
-  3: vahsi_hayvan
+  2: hayvan
+  

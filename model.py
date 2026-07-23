@@ -18,18 +18,18 @@ def start_training():
     
     results = model.train(
         data=YAML_PATH,
-        epochs=100,
-        imgsz=640,
-        batch=16,
+        epochs=25,             
+        imgsz=800,           
+        batch=8,              
         device=device,
         workers=4,
         name=f"drone_{MODEL_TYPE}_{MODEL_SIZE}_run",
         save=True,
-        plots=True
+        plots=True,
+        exist_ok=True
     )
     
     print("\n[TAMAMLANDI] Model eğitimi başarıyla sonuçlandı!")
 
 if __name__ == "__main__":
     start_training()
-    
