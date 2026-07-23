@@ -14,7 +14,7 @@ A high-performance, real-time small object detection system designed for drone i
 * `data.yaml`: Dataset split paths and class definitions.
 
 ## 📊 Training Results 
-![Training Results](runs\detect\drone_yolov8_s_run/results.png)
+![Training Results](assets/results.png)
 
 
 
