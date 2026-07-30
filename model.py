@@ -18,7 +18,7 @@ def start_training():
     
     results = model.train(
         data=YAML_PATH,
-        epochs=25,             
+        epochs=100,             
         imgsz=800,           
         batch=8,              
         device=device,

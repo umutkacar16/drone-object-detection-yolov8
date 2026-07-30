@@ -21,7 +21,7 @@ Due to file size limitations, trained model weights, full runs data, and the mer
 * 🎯 **Trained Weights & Training Runs (`runs/` & `best.pt`):** [Download from Google Drive](https://drive.google.com/drive/folders/1wp_3qtlECz9Wax3X-6jdlMyVQT1i08Bf?usp=sharing)
 
 ## 📊 Training Results 
-![Training Results](assets/results.png)
+![Training Results](assets/100 epoch/results.png)
 
 ## 🚀 Quick Start
 
