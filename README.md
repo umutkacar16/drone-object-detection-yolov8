@@ -5,7 +5,7 @@ A high-performance, real-time small object detection system designed for drone i
 ## 📊 Key Performance Metrics
 * **mAP50:** 84.0%
 * **Inference Speed:** 2.9 ms (~250+ FPS)
-* **Target Classes:** Human, Bird, Pet, Wild Animal
+* **Target Classes:** Human, Bird, Animal
 
 ## 📁 Repository Structure
 * `app.py`: PyQt5 desktop interface for image/video testing.
@@ -21,7 +21,7 @@ Due to file size limitations, trained model weights, full runs data, and the mer
 * 🎯 **Trained Weights & Training Runs (`runs/` & `best.pt`):** [Download from Google Drive](https://drive.google.com/drive/folders/1wp_3qtlECz9Wax3X-6jdlMyVQT1i08Bf?usp=sharing)
 
 ## 📊 Training Results 
-![Training Results](assets/100 epoch/results.png)
+![Training Results](assets/ 100 epoch/results.png)
 
 ## 🚀 Quick Start
 
